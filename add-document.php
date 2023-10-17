@@ -32,7 +32,7 @@ if (isset($_SESSION['sno']) && isset($_SESSION['user_id']))
                     <i class="fas fa-bars"></i>
                 </div>
                 <h1 class="navbar-heading">Add Document
-                    <a href="login.php" id="logoutButton"><button class="logout-btn" id="logoutButton" name="button"
+                    <a href="logout.php" id="logoutButton"><button class="logout-btn" id="logoutButton" name="button"
                             type="button">Logout</button></a>
                 </h1>
             </div>

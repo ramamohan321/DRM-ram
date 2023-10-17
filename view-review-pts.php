@@ -34,7 +34,7 @@ if (isset($_SESSION['sno']) && isset($_SESSION['user_id']))
                     <i class="fas fa-bars"></i>
                 </div>
                 <h1 class="navbar-heading">View Rewiew Points
-                    <a href="login.php"><button class="logout-btn" name="button" type="button">Logout</button></a>
+                    <a href="logout.php"><button class="logout-btn" name="button" type="button">Logout</button></a>
                 </h1>
             </div>
             <!-- Actual Body Container -->
